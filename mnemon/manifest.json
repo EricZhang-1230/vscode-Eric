@@ -1,0 +1,47 @@
+{
+  "format": "mnemonpack",
+  "version": 1,
+  "scope": "full",
+  "exportedAt": "2026-11-02T05:26:14.444Z",
+  "source": {
+    "plugin": "dsh-mnemon",
+    "pluginVersion": "0.5.38"
+  },
+  "components": [
+    "runtime",
+    "documents",
+    "memory-spaces"
+  ],
+  "summary": [
+    {
+      "component": "runtime",
+      "files": 3,
+      "bytes": 36,
+      "items": 0
+    },
+    {
+      "component": "documents",
+      "files": 1,
+      "bytes": 38,
+      "items": 0
+    },
+    {
+      "component": "memory-spaces",
+      "files": 1,
+      "bytes": 35,
+      "items": 0
+    }
+  ],
+  "sync": {
+    "channel": "git",
+    "branch": "mnemon-sync",
+    "subdir": "mnemon/",
+    "pushedAt": "2026-11-02T05:26:14.444Z",
+    "machine": {
+      "id": "d580c940-acac-4fb7-9b86-1a0dfb06caab",
+      "label": "xuanxuan",
+      "createdAt": "2026-11-02T05:21:46.786Z"
+    },
+    "tombstones": []
+  }
+}
